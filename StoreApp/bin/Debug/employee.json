@@ -1,0 +1,74 @@
+{
+  "Employees": [
+    {
+      "ImageSrc": null,
+      "ImageTitle": "1.png",
+      "Id": 1,
+      "Title": "Mr",
+      "FirstName": "Abdul",
+      "LastName": "Ahad",
+      "Email": "ministerahad@gmail.com",
+      "Contact": "01831469877"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "2.png",
+      "Id": 2,
+      "Title": "Miss",
+      "FirstName": "Rahima",
+      "LastName": "Akter",
+      "Email": "rahimaakter@gmail.com",
+      "Contact": "01777777777"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "3.png",
+      "Id": 3,
+      "Title": "Mr",
+      "FirstName": "Rakibul",
+      "LastName": "Hasib",
+      "Email": "rakim@gmail.com",
+      "Contact": "01777777777"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "4.png",
+      "Id": 4,
+      "Title": "Miss",
+      "FirstName": "Salma Tabassum",
+      "LastName": "Jahan",
+      "Email": "salma@gmail.com",
+      "Contact": "01777777777"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "5.png",
+      "Id": 5,
+      "Title": "Mr",
+      "FirstName": "Anas",
+      "LastName": "Abdullah",
+      "Email": "anas@gmail.com",
+      "Contact": "01777777777"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "6.png",
+      "Id": 6,
+      "Title": "Mrs",
+      "FirstName": "Faiza",
+      "LastName": "Islam",
+      "Email": "faiza@gmail.com",
+      "Contact": "01777777777"
+    },
+    {
+      "ImageSrc": null,
+      "ImageTitle": "7.png",
+      "Id": 7,
+      "Title": "Mr",
+      "FirstName": "Nur",
+      "LastName": "Mohammad",
+      "Email": "nur@gmail.com",
+      "Contact": "01777777777"
+    }
+  ]
+}
